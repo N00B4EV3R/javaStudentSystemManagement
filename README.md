@@ -1,6 +1,7 @@
 # javaStudentSystemManagement
 🧩 Cerințe detaliate
 🧠 1. Clasa Student are următoarele câmpuri:
+
 private int id;
 private String name;
 private String group;
